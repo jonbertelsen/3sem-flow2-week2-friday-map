@@ -1,3 +1,7 @@
+# Exercise for 3rd semester flow 2 week 2 Friday: Map
+
+[Map exercise](https://docs.google.com/document/d/1KXXWvaES044LTDAUXCiBQPfo62zxOBiBuLVBAs8J1Ko/edit?usp=sharing)
+
 # Simple template to create SPA's with plain JavaScript using Babel, Webpack and Webpacks devserver
 
 ## Getting started
